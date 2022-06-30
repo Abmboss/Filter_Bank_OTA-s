@@ -16,7 +16,9 @@ This repository will be dedicated to the results developed in a scientific initi
 
 | Name | E-mail|
 | :---:  | :---: |
-| Mateus Xavier Ferreira | mateus.xavier@engenharia.ufjf.br |
-| Maria Júlia Prata e Cunha | maria.julia@engenharia.ufjf.br |
 | Antônio Borges Moreira | antonio.borges@engenharia.ufjf.br |
 | Estêvão Coelho Teixeira | estevao.teixeira@ufjf.edu.br |
+| Maria Júlia Prata e Cunha | maria.julia@engenharia.ufjf.br |
+| Mateus Xavier Ferreira | mateus.xavier@engenharia.ufjf.br |
+
+
