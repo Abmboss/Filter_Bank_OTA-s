@@ -9,7 +9,7 @@ This repository will be dedicated to the results developed in a scientific initi
 
 * [MATLAB Code](https://github.com/Abmboss/Filter_Bank_OTA-s/blob/main/gmCFilter.m) - This code calculates the transfer functions of the filters, and the transconductances values necessary to implement these filters using the chosen topology.
 
-* [Excel Table](https://github.com/mateus-xavier/A-Gm-C-Filter-Bank-for-Supraharmonic-Analysis-Application/blob/master/Valores.xlsx) - Table with the transconductance values found for each filter using ideal bank OTA, and values found for the 45kHz-60kHz filter using real OTA.
+* [Excel Table](https://github.com/Abmboss/Filter_Bank_OTA-s/blob/main/Resultados.xlsx) - Table with the transconductance values found for each filter using ideal bank OTA, and values found for the 45kHz-60kHz filter using real OTA.
 
 
 ### Authors
