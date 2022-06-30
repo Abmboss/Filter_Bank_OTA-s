@@ -1,4 +1,4 @@
-# A Gm-C Filter Bank for Supraharmonic Analysis Application
+# A Gm-C filter bank using real-level transconductance amplifiers for supraharmonic analysis application
 
 Welcome! 
 
